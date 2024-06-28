@@ -244,7 +244,7 @@ class LogIn(Window):
         self.entryUsername.place(x=410,y=323)
         self.lblPassword = Label(frmLogIn,text='Password:',bg=COLORS[0],fg=COLORS[1],font=('Georgia',26))
         self.lblPassword.place(x=230,y=420)
-        self.entryPassword = Entry(frmLogIn,width = 22,font=('Calibri',22),fg=COLORS[1])#,show='*'
+        self.entryPassword = Entry(frmLogIn,width = 22,show='*',font=('Calibri',22),fg=COLORS[1])
         self.entryPassword.place(x=410,y=423)
         #The Forgot button allows the user to change their password
         #if they forgot it by running the ForgotPassword method
