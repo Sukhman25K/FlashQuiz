@@ -144,13 +144,13 @@ class SignUp(Window):
         self.entryUsername.place(x=700,y=223)
         self.lblPassword = Label(frmSignUp,text='Password:',bg=COLORS[0],fg=COLORS[1],font=('Georgia',22))
         self.lblPassword.place(x=550,y=320)
-        self.entryPassword = Entry(frmSignUp,width = 18,font=('Calibri',22),fg=COLORS[1])#,show='*'
+        self.entryPassword = Entry(frmSignUp,width = 18,show='*',font=('Calibri',22),fg=COLORS[1])
         self.entryPassword.place(x=700,y=323)
         self.lblReenter1 = Label(frmSignUp,text='Re-enter',bg=COLORS[0],fg=COLORS[1],font=('Georgia',22))
         self.lblReenter1.place(x=550,y=438)
         self.lblReenter2 = Label(frmSignUp,text='password:',bg=COLORS[0],fg=COLORS[1],font=('Georgia',22))
         self.lblReenter2.place(x=550,y=478)
-        self.entryReenter = Entry(frmSignUp,width = 18,font=('Calibri',22),fg=COLORS[1])#,show='*'
+        self.entryReenter = Entry(frmSignUp,width = 18,show='*',font=('Calibri',22),fg=COLORS[1])
         self.entryReenter.place(x=700,y=481)
 
         #The AddUser method which creates an empty array(UserDetails)
