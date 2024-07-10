@@ -10,4 +10,7 @@ I designed the user interface, modelled the database, and wrote all the code as 
 The main and only language used to create this application was Python.
 
 # Getting Started
-Install the tkinter module on python
+In order to run the application, you will need to set up the project locally first by following these instructions.
+
+## Prerequisites
+
