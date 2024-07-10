@@ -1,6 +1,6 @@
 # About The Project
 
-![alt text](https://github.com/Sukhman25K/FlashQuiz/blob/main/HomeScreen.png?raw=true) 
+![Image of the application's home screen with two buttons to sign up or log in](https://github.com/Sukhman25K/FlashQuiz/blob/main/HomeScreen.png?raw=true) 
 
 This was my first coding project as part of my A-Level Computer Science examination where I had to solve one of
 my client's problems. In this case, I created a revision app with flashcards using Python.
