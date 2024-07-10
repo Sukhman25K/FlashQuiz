@@ -8,7 +8,7 @@ I designed the user interface, modelled the database, and wrote all the code as 
 
 # Built With
 The main and only language used to create this application was 
-* [![Python][Python.py]][Python-url]
+[![Python][Python.py]][Python-url]
 
 # Getting Started
 Install the tkinter module on python
