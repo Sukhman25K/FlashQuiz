@@ -7,10 +7,10 @@ my client's problems. In this case, I created a revision app with flashcards usi
 I designed the user interface, modelled the database, and wrote all the code as efficiently as possible.
 
 # Built With
-The main and only language used to create this application was Python due to its versatility and adaptability with multiple modules offered. For example, Python's sqlite3 and Tkinter modules allow the implementation of a database and the creation of a user interface in a single language leading to an efficient integration between the two critical properties of the application.
+The main and only language used to create this application was Python due to its versatility and adaptability with multiple modules offered. For example, Python's SQLite3 and Tkinter modules allow the implementation of a database and the creation of a user interface in a single language leading to an efficient integration between the two critical properties of the application.
 
 # Getting Started
-In order to run the application, you will need to set up the project locally first by following these instructions.
+To run the application, you must first set up the project locally by following these instructions.
 
 ## Prerequisites
 Check whether Python is already installed with
@@ -31,7 +31,7 @@ After setting up Python, you can install the application to your local environme
    ```
 
 ## Usage
-You can run the application when the installation is complete and stored in your local environment. In order to run the application, that can be done in different ways where the first one would be using a terminal. Navigate to the folder where the application is stored and type:
+You can go ahead and run the application when the installation is complete and stored in your local environment. The application can be run in different ways where the first one would be using a terminal. Navigate to the folder where the application is stored and type:
 ```
 python FlashQuiz.py
 ```
