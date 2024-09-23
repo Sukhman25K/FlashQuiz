@@ -14,7 +14,7 @@ To run the application, you must first set up the project locally by following t
 
 ## Prerequisites
 Check whether Python is already installed with
-```
+```sh
 python --version
 ```
 If Python is not installed, you can do so from the [Python website](https://www.python.org/downloads) by selecting the appropriate installer for your required environment.
@@ -22,17 +22,17 @@ If Python is not installed, you can do so from the [Python website](https://www.
 ## Installation
 After setting up Python, you can install the application to your local environment with the following instructions:
 1. Clone the repo
-   ```
+   ```sh
    git clone https://github.com/Sukhman25K/FlashQuiz.git
    ```
 2. Install any missing Python packages by replacing the name in the command 
-   ```
+   ```sh
    python -m pip install name
    ```
 
 ## Usage
 You can go ahead and run the application when it's finished and store it in your local environment. The application can be run in different ways where the first one would be using a terminal. Navigate to the folder where the application is stored and type:
-```
+```sh
 python FlashQuiz.py
 ```
 
